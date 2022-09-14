@@ -1,0 +1,27 @@
+#Subscrible:active{
+    box-shadow: none;
+    transform: translateY(5px);
+}
+#Subscrible{
+    border-radius: 25px;
+    position: relative;
+    left: 38%;
+    color: white;
+    border: none;
+    background-color: #f4392f;
+    box-shadow: 0 5px 0 #d42b0d;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+#SubscribeField{
+    background-color: #6CA6FF;
+    border-radius: 10px;
+    padding: 20px 50px;
+    width: 590px;
+}
+#kevinImg{
+    width: 10% !important;
+    height: auto;
+    border-radius: 50px;
+}
