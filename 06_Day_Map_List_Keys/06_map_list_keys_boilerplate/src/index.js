@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
+import NumberGen from './NumberGen'
 
 // importing data
 
@@ -39,8 +39,9 @@ const App = () => {
   return (
     <div className='app'>
       <div>
-        <h1>Countries List</h1>
-        <Countries countries={countries} />
+        {/* <h1>Countries List</h1>
+        <Countries countries={countries} /> */}
+        <NumberGen />
       </div>
     </div>
   )
